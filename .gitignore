@@ -1,3 +1,4 @@
+# Ignore eclipse files and linux backup files.
 .metadata
 .settings
 .project
