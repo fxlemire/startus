@@ -1,0 +1,20 @@
+{
+  "name": "StartUs",
+  "version": "0.0.0",
+  "description": "<a href='https://www.youtube.com/watch?v=hcJ1lrllZ7o'>StartUs</a>\r -------",
+  "devDependencies": {
+      "grunt": "~0.4.5",
+      "grunt-contrib-jshint": "~0.10.0",
+      "grunt-contrib-less": "~0.11.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fxlemire/startus.git"
+  },
+  "author": "StartUs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fxlemire/startus/issues"
+  },
+  "homepage": "https://github.com/fxlemire/startus"
+}
