@@ -1,0 +1,71 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1651" measuredH="938" mockupW="1601" mockupH="935">
+  <controls>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="50" y="3" w="1600" h="935" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>StartUs%0Ahttp%3A//www.startus.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Title" x="739" y="92" w="-1" h="-1" measuredW="209" measuredH="35" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>3355443</color>
+        <size>32</size>
+        <text>S%20T%20A%20R%20T%20U%20S</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Canvas" x="50" y="74" w="1600" h="71" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>11982760</color>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Icon" x="1580" y="86" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Clarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::TextInput" x="51" y="145" w="1600" h="-1" measuredW="548" measuredH="29" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <size>18</size>
+        <text>%20%20News%3A%20Password%20Box%20gave%20Gods%20Computer%20a%20free%201-year%20account</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::SubTitle" x="590" y="196" w="-1" h="-1" measuredW="126" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Technology</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::SubTitle" x="780" y="196" w="-1" h="-1" measuredW="90" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Clothing</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::SubTitle" x="963" y="196" w="-1" h="-1" measuredW="41" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Life</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::SubTitle" x="1089" y="196" w="-1" h="-1" measuredW="131" measuredH="27" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Engineering</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::SubTitle" x="503" y="196" w="-1" h="-1" measuredW="27" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>All</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::DataGrid" x="77" y="238" w="1541" h="655" measuredW="688" measuredH="338" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <rowHeight>80</rowHeight>
+        <text>Keywords%2C%20Title%2C%20By%2C%20Date%0ALogo%2C%20Help%20Us%20Design%20a%20Cool%20Logo%2C%20Godz%20Computer%2C%202014-07-01%0AFurnitures%5C%2C%20Desks%5C%2C%20Lamps%2C%20We%20would%20need%202%20desks%20and%20lamps%20and%20a%20printer%20plz%21%2C%20T%E4sten%2C%202014-03-01%0AWeb%2C%20Website%20for%20our%20startup%21%2C%20Some%20Artistz%2C%202014-01-16%0ALegal%2C%20Any%20legal%20templates%20we%20can%20borrow%3F%20%28Happy%20New%20Year%29%2C%20Hipsters%20Inc.%2C%202013-12-31%0A%7B15%2C%2050%2C%2020%2C%2015%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Icon" x="77" y="93" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>BulletsIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
