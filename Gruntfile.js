@@ -4,20 +4,16 @@ module.exports = function(grunt) {
     grunt.initConfig({
         jshint: {
             options: {
-                paths: ["StartUs/WebContent/js"],
-                ignores: ["bootstrap.min.css", "angular.min.js"]
+                ignores: ["StartUs/WebContent/js/bootstrap.min.css", "StartUs/WebContent/js/angular.min.js"]
             },
-            all: ["../../../Gruntfile.js", "*.js"]
+            all: ["Gruntfile.js", "StartUs/WebContent/js/*.js"]
         },
         less: {
-            options: {
-                paths: ["StartUs/WebContent/style"]
-            },
             src: {
                 expand: true,
-                cwd: "StartUs/WebContent/style",
+                cwd: "StartUs/WebContent/less",
                 src: ["**/*.less"],
-                dest: "StartUs/WebContent/style",
+                dest: "StartUs/WebContent/css",
                 ext: ".css"
             }
         }

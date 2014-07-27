@@ -4,4 +4,4 @@
 .project
 *.*~
 node_modules
-startus.css
+**/css
