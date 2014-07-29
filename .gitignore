@@ -2,6 +2,7 @@
 .metadata
 .settings
 .project
+.idea
 *.*~
 node_modules
 **/css
